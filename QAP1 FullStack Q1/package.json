@@ -1,0 +1,20 @@
+{
+  "name": "qap1-fullstack",
+  "version": "1.0.0",
+  "description": "QAP 1 node sample code",
+  "main": "bufferExample.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "FullStack"
+  ],
+  "author": "Aidan Holloway",
+  "license": "ISC",
+  "dependencies": {
+    "buffer": "^6.0.3",
+    "console": "^0.7.2",
+    "globals": "^13.22.0"
+  }
+}
